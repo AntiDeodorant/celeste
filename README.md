@@ -1,2 +1,2 @@
 # celeste
-play a working version here: https://antideodorant.github.io/celeste/
+Play a working version right here: https://antideodorant.github.io/celeste/
